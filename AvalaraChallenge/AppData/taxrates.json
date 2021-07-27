@@ -1,0 +1,402 @@
+[
+  {
+    "CountyName": "Alamance County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Alexander County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Alleghany County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Anson County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Ashe County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Avery County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Beaufort County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Bertie County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Bladen County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Brunswick County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Buncombe County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Burke County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Cabarrus County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Caldwell County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Camden County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Carteret County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Caswell County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Catawba County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Chatham County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Cherokee County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Chowan County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Clay County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Cleveland County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Columbus County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Craven County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Cumberland County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Currituck County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Dare County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Davidson County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Davie County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Duplin County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Durham County",
+    "TaxRate": "7.5%"
+  },
+  {
+    "CountyName": "Edgecombe County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Forsyth County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Franklin County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Gaston County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Gates County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Graham County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Granville County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Greene County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Guilford County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Halifax County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Harnett County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Haywood County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Henderson County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Hertford County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Hoke County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Hyde County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Iredell County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Jackson County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Johnston County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Jones County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Lee County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Lenoir County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Lincoln County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Macon County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Madison County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Martin County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Mcdowell County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Mecklenburg County",
+    "TaxRate": "7.25%"
+  },
+  {
+    "CountyName": "Mitchell County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Montgomery County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Moore County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Nash County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "New Hanover County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Northampton County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Onslow County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Orange County",
+    "TaxRate": "7.5%"
+  },
+  {
+    "CountyName": "Pamlico County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Pasquotank County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Pender County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Perquimans County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Person County",
+    "TaxRate": "7.5%"
+  },
+  {
+    "CountyName": "Pitt County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Polk County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Randolph County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Richmond County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Robeson County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Rockingham County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Rowan County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Rutherford County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Sampson County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Scotland County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Stanly County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Stokes County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Surry County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Swain County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Transylvania County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Tyrrell County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Union County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Vance County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Wake County",
+    "TaxRate": "7.25%"
+  },
+  {
+    "CountyName": "Warren County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Washington County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Watauga County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Wayne County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Wilkes County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Wilson County",
+    "TaxRate": "7%"
+  },
+  {
+    "CountyName": "Yadkin County",
+    "TaxRate": "6.75%"
+  },
+  {
+    "CountyName": "Yancey County",
+    "TaxRate": "6.75%"
+  }
+]
